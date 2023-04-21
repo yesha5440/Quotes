@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="quotes" type="id">quotes</item>
+    <item name="nestedScroll" type="id">nested</item>
+    <item name="rcvList" type="id">rcvList</item>
+</resources>
